@@ -1,5 +1,6 @@
 // Simple C++ program to display "Hello World" 
-  
+// Author: Ian Kwiotek <iankwiotek@comcast.net>
+
 // Header file for input output functions 
 
 //Adding comments for fun and conflict
